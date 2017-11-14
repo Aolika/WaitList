@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">My Wait List</string>
+    <string name="activity_main_guest_name">Guest Name</string>
+    <string name="activity_main_party_size">Party Size (max 99)</string>
+    <string name="activity_main_button_text">Add</string>
+
+    <string name="activity_list_item_party_size_default">\?</string>
+    <string name="activity_list_item_name">[Guest Name]</string>
 </resources>
